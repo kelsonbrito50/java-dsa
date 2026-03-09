@@ -1,7 +1,7 @@
 [
   {"day": 1, "name": "Two Sum", "category": "arrays", "file": "TwoSum", "difficulty": "Easy", "done": true},
   {"day": 2, "name": "Sliding Window Maximum Sum", "category": "arrays", "file": "SlidingWindow", "difficulty": "Easy", "done": true},
-  {"day": 3, "name": "Kadane's Algorithm", "category": "arrays", "file": "Kadane", "difficulty": "Medium", "done": false},
+  {"day": 3, "name": "Kadane's Algorithm", "category": "arrays", "file": "Kadane", "difficulty": "Medium", "done": true},
   {"day": 4, "name": "Two Pointers (Container With Most Water)", "category": "arrays", "file": "TwoPointers", "difficulty": "Medium", "done": false},
   {"day": 5, "name": "Valid Anagram", "category": "strings", "file": "StringOps", "difficulty": "Easy", "done": false},
   {"day": 6, "name": "Reverse Linked List", "category": "linkedlists", "file": "SinglyLinkedList", "difficulty": "Easy", "done": false},
